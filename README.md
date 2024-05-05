@@ -19,14 +19,7 @@ One of the first simple apps I created while on my journey to learn Flutter.
 
 ## Setup
 
-  ##### Clone the repository
-```bash
-git clone https://github.com/swapnilsparsh/BMI-Calculator-App.git
-```
-  ##### Move to the desired folder
-```bash
-cd \bmi_calculator
-```
+
 
   ##### To run the app, simply write
 ```bash
